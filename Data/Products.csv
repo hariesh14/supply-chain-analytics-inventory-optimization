@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,UnitCost,ReorderPoint,TargetStock
+P1001,Safety Gloves,Safety,12.5,180,60
+P1002,Industrial Helmet,Safety,24.0,100,30
+P1003,Steel Bolt Pack,Fasteners,8.5,500,150
+P1004,Hydraulic Hose,Components,42.0,80,25
+P1005,Bearing Assembly,Components,35.0,120,40
+P1006,Packing Carton,Packaging,2.2,800,250
+P1007,Protective Glasses,Safety,6.0,220,70
+P1008,Steel Washer Pack,Fasteners,4.5,600,180
+P1009,Motor Coupling,Components,55.0,45,15
+P1010,Stretch Film Roll,Packaging,9.5,300,90

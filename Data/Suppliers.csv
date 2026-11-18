@@ -1,0 +1,6 @@
+SupplierID,SupplierName,Country,SupplierTier
+S01,Western Industrial Supply,India,Standard
+S02,Apex Components,India,Preferred
+S03,Global Pack Solutions,UAE,Standard
+S04,Prime Safety Goods,India,Preferred
+S05,Metro Engineering Parts,Germany,Critical
